@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a cybersecurity engineer who loves to code back-ends and tools.
-Here's my stats 
+
+Here's my stats:
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SoufElhabti&show_icons=true&theme=radical)
